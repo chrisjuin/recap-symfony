@@ -1,0 +1,4 @@
+services:
+#    c_jcomm.example:
+#        class: CJ\commBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

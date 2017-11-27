@@ -1,10 +1,9 @@
 <?php
 
-namespace AppBundle;
+namespace CJ\commBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class AppBundle extends Bundle
+class CJcommBundle extends Bundle
 {
-    
 }

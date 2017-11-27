@@ -1,0 +1,3 @@
+c_jcomm_homepage:
+    path:     /
+    defaults: { _controller: CJcommBundle:Default:index }
